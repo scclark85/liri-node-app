@@ -16,7 +16,7 @@ liri.js can take in one of the following commands:
   - Will take the text inside of random.txt and then use it to call one of LIRI's commands.
   
   (Images provided to show how the application works)
-![GitHub Logo](liri-node-app/Images/Liri-bot-1.png)
+![GitHub Logo](Images/Liri-bot-1.png)
 Format: ![Alt Text](url)
 
  
