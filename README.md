@@ -4,13 +4,13 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 liri.js can take in one of the following commands:
 * concert-this *
-- Will show the name of the venue, location, and date of the event.
+  - Will show the name of the venue, location, and date of the event.
  
 * spotify-this-song *
-- Will show artist(s), the song name, link preview of the song, and album the song is from.  If no song is provided, Liri will default to "The Sign" by Ace of Base.
+  - Will show artist(s), the song name, link preview of the song, and album the song is from.  If no song is provided, Liri will default to "The Sign" by Ace of Base.
  
 * movie-this *
-- Will show title of movie, year it came out, IMDB rating, rotten tomato rating, county it was produced, language, plat, and actors.  If no movie is provided, Liri will default to "Mr. Nobody".
+  - Will show title of movie, year it came out, IMDB rating, rotten tomato rating, county it was produced, language, plat, and actors.  If no movie is provided, Liri will default to "Mr. Nobody".
 
 * do-what-it-says *
   - Will take the text inside of random.txt and then use it to call one of LIRI's commands.
