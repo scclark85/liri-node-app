@@ -19,14 +19,10 @@ liri.js can take in one of the following commands:
 ![GitHub Logo](Images/Liri-bot-1.png)
 Format: ![Alt Text](url)
 
- 
-  
-  ![image of liri commands]
-  liri-node-app/Images/Liri-bot-2.png
-  
-  ![image of liri commands]
-  liri-node-app/Images/Liri-bot-3.png
-          
-      
+![GitHub Logo](Images/Liri-bot-2.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](Images/Liri-bot-3.png)
+Format: ![Alt Text](url) 
   
   ***Learned to utilize node.js and NPM***
