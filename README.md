@@ -17,12 +17,9 @@ liri.js can take in one of the following commands:
   
   (Images provided to show how the application works)
 ![GitHub Logo](Images/Liri-bot-1.png)
-Format: ![Alt Text](url)
 
 ![GitHub Logo](Images/Liri-bot-2.png)
-Format: ![Alt Text](url)
 
 ![GitHub Logo](Images/Liri-bot-3.png)
-Format: ![Alt Text](url) 
   
   ***Learned to utilize node.js and NPM***
