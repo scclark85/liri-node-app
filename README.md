@@ -15,7 +15,8 @@ liri.js can take in one of the following commands:
 * do-what-it-says 
   - Will take the text inside of random.txt and then use it to call one of LIRI's commands.
   
-  (Images provided to show how the application works)
+  (Images and video provided to show how the application works)
+  https://drive.google.com/file/d/1nU6IgSUaBMz4UJgJ9YQYonyQSLHCsJNf/view?usp=sharing
 ![GitHub Logo](Images/Liri-bot-1.png)
 
 ![GitHub Logo](Images/Liri-bot-2.png)
